@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-size: 16px;
+    color: black;
+}
+.body-wrap {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.section1 {
+    background-image: url("images/bg1.jpg");
+    background-repeat: no-repeat;
+}
+.top-title{
+    font-size: 2rem;
+}
+
+.bg-img1 img {
+    width: 40%;
+}
+.bg-img1 {
+    display: flex;
+    justify-content: right;
+
+}
+
+.section3 {
+    background-image: url("images/bg1.jpg");
+    background-repeat: no-repeat;
+}
+.s3-text-wrap {
+    display: flex;
+}
+.left-title1 {
+    width: 45%;
+}
+.right-text1 {
+
+}
